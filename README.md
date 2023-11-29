@@ -1,5 +1,5 @@
 - Declan Rieb 
-- Only on GitHub because CHIRP software is hosted here, and I've tried to contribute some changes.
+- Only on GitHub because CHIRP software is hosted here, and I've tried to contribute some changes. [Yaesu FT2D, FT-1D and dependencies)
 
 
 <!---
